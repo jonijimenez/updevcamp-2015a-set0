@@ -1,0 +1,94 @@
+*{
+  font-family: Courier;
+  margin: 0;
+  color: white;
+}
+
+body{
+	background: url(dark_embroidery.png);
+}
+
+.nav{
+  text-align: right;
+  padding: 25px;
+
+  background: url(maroon_bg.png);
+}
+
+.navs{
+  padding: 25px;
+  color: white;
+}
+
+#me{
+	margin: 0 auto;
+  	padding: 40px 100px;
+  	text-align: center;
+  	display: flex;
+}
+
+.mes{
+	margin: auto;
+	display: inline-block;
+}
+
+.ver{
+	margin: auto;
+}
+
+.im{
+
+	margin: auto;
+	border: 10px green solid;
+	border-radius: 50%;
+	width: 300px;
+}
+
+#interest{
+	margin: 0 auto;
+	text-align: center;
+	background: url(maroon_bg.png);
+}
+
+
+.ints{
+	display: inline-block;
+	padding: 0 10px;
+}
+
+img{
+	height: 300px;
+	width: 250px;
+	display: block;
+	padding: 20px 35px;
+}
+
+.I{
+	font-size: 24px;
+}
+
+#rec{
+	text-align: center;
+}
+
+.recs{
+	float: left;
+	padding: 0 30px;
+}
+
+#rec1, #rec2{
+	display: flex;
+}
+
+.rr, .r{
+	width: 200px;
+}
+
+.r{
+	height: 20px;
+	color: black;
+}
+
+#send{
+	background-color: black;
+}
